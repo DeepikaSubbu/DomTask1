@@ -1,0 +1,14 @@
+body{
+    
+    background-color: rgb(106, 121, 131);
+    margin-left: 200px;
+}
+table{
+    border: 1px solid rgb(139, 128, 128);
+}
+td,th{
+    border: 2px solid rgb(114, 88, 88);
+    padding: 1em;
+    margin-left: -100px;
+}
+
